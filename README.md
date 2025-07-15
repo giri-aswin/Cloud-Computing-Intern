@@ -1,7 +1,7 @@
 Cloud Computing Internship – CodTech IT Solutions Pvt. Ltd.
 
 **Intern Name**: Giri Aswin R
-**Intern ID**: CT04DG1190 
+**Intern ID**: CT06DG1190 
 **Internship Duration**: June 14, 2025 – July 14, 2025  
 **Organization**: CodTech IT Solutions Pvt. Ltd.  
 **Mode**: Online  
